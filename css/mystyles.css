@@ -1,0 +1,17 @@
+
+p { color: green;
+  font-size: 28px; }
+
+
+  table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+  }
+  th, td {
+      padding: 5px;
+      text-align: left;
+  }
+
+  body {
+      background-color: powderblue;
+  }
